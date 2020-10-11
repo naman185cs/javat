@@ -5,6 +5,7 @@ import javat.Style.*;
 import java.io.*;
 import java.util.*;
 public class Run {
+	//check1
 	private static String ask = "";
 	private static wait tour = new wait();
 	public static final long initial=(new Date()).getTime();
